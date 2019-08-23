@@ -7,11 +7,11 @@
     "target": "es5",
     "types": [
       "jasmine",
-      "node"
+      "node",
+      "jest"
     ]
   },
   "files": [
-    "test.ts",
     "polyfills.ts"
   ],
   "include": [
